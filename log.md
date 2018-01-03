@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1st, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Took the challenge, setup the GitHub repo, found courses for learning CSS Grid and Vanilla JS, also found a tutorial for Bash. Started practicing CSS Grid.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel very rusty with all things Developer-y, and it's time to get back into fit form. Just like with a foreign language, first comes the reading and listening, then the writing and speaking. CSS Grid looks great, and feels like a nice soft reentry into code literacy.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Learn CSS for Free TUTORIAL](https://scrimba.com/g/gR8PTE)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 2nd, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Set up and practiced Bash on PC Laptop (Required Ubuntu. also installed Atom), used Enki to learn more about Linux, watched first Vanilla JS video.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I stretched out of my comfort zone with all the command line today. Not sure if I actually spend 1 hour coding, today felt like a lot of setup and prep. Watching 20 mins of rapid JS felt like the first time doing a 7 minute workout after weeks of lounging around.
+
+**Link(s) to work**: [Learn Vanilla JS in 30 Days TUTORIAL](https://javascript30.com/)
+[Bash TUTORIAL](https://www.youtube.com/watch?v=BFMyUgF6I8Y)
+
+
+### Day 2: January 3rd, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+[Machine Learning for Unity Challenge](https://connect.unity.com/challenges/ml-agents-1)
