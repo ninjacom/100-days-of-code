@@ -21,10 +21,10 @@
 
 ### Day 2: January 3rd, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Set up the Github repo for my JS and CSS practice, called Dojo. Committed first 2 days of vanilla JS projects, which are a Drum Kit and animated analog Clock.
 
-**Thoughts** 
+**Thoughts** Forgot how fun it is to spot typo's in non-working code - today it was transitionend (instead of the incorrect transitioned). Feeling more confident in the code, making changes live in Chrome browser and copy/pasta into Brackets. Coding is getting addictive!
 
 **Link(s) to work**
 
-[Machine Learning for Unity Challenge](https://connect.unity.com/challenges/ml-agents-1)
+[Dojo repo](https://github.com/ninjacom/Dojo)
