@@ -9,3 +9,6 @@ Laid out a plan, found courses on how to up my game across CSS, JS, and Bash. Go
 
 ### R1D2
 Committed the practice Dojo files on Github for the now 2 days of JS and CSS practice exercises (https://github.com/ninjacom).
+
+### R1D3
+Learned how to make CSS changes via JS, and more about fraction units and repeat() in CSS Grid. Also learned about UI Elements in a Unity3D project. All on the Github (praise be to thee).
