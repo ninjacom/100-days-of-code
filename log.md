@@ -29,12 +29,24 @@
 
 [Dojo repo](https://github.com/ninjacom/Dojo)
 
+
 ### Day 3: January 4th, Friday
 
 **Today's Progress**: Completed practice exercises in CSS Grid (Day 3) and JS (Day 3) Specifically, I learned how to make CSS changes via JS, and more about responsive positioning with fractional units in CSS Grid. Also implemented many UI Elements in a Unity3D project called Clicker Game. 
 
 **Thoughts** Lots of new stuff to learn, I hope it all stays in my head. Actually, I hope I remember all this in the moments that I need them. I suppose that's why this is a daily practice, using straight repetition to memorize and recite what I need when I need it.
 
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
+
+
+### Day 4: January 5th, Saturday
+
+**Today's Progress**: Completed practice exercise in CSS Grid (Day 4) and JS fundamentals (Day 4). Had quite a workout with arrays in JS (map, sort, and reduce), and positioned items in CSS Grid using only numbers (no px, fr, or any other suffix).
+
+**Thoughts** 
+Whew! That was an exhausting workout, lots learned. I will have to practice these basics again to really cement them into my brain. I'm also not sure that front end dev only should be my focus. Along with more Unity (C#), I should pivot soon to include more full-stack work (SQL).
 
 **Link(s) to work**
 
