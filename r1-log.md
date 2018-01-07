@@ -15,3 +15,6 @@ Learned how to make CSS changes via JS, and more about fraction units and repeat
 
 ### R1D4
 Had quite a workout with arrays in JS (map, sort, and reduce), and positioned items in CSS Grid using only numbers (no px, fr, or any other suffix).
+
+### R1D5
+Practiced JS changes to CSS Flexbox, and grid template areas in CSS Grid. Seems like CSS Grid is a bit more versatile than Flexbox and Bootstrap.
