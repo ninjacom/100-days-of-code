@@ -18,3 +18,6 @@ Had quite a workout with arrays in JS (map, sort, and reduce), and positioned it
 
 ### R1D5
 Practiced JS changes to CSS Flexbox, and grid template areas in CSS Grid. Seems like CSS Grid is a bit more versatile than Flexbox and Bootstrap.
+
+### R1D6
+Completed the Ajax Type Ahead exersice in #js30. Also Day 6 for CSS Grid, and I started the Front End Developer Certificate on freeCodeCamp because why not?!

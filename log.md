@@ -63,3 +63,14 @@ Seems like CSS Grid is a bit better than Flexbox, and I already heard it's a bit
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 6: January 8th, Monday
+
+**Today's Progress**: Completed the Ajax Type Ahead exersice in #js30. Also Day 6 for CSS Grid, and I started the Front End Developer Certificate on freeCodeCamp because why not?!
+
+**Thoughts** Pretty cool to make an autocomplete box, it's not too difficult! I think I made something like this before for NomadPass 2 years ago, except the code was probably spaghetti. It feels good to have a bigger goal in sight with the Front End Dev Certificate, glad I decided to go for that even though its 482 hours. I'd ultimately like to finish all their certifications and do the job training section they offer... it will take over 1,323 hours and 3 certifications to get there though!
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
