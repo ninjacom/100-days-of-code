@@ -74,3 +74,14 @@ Seems like CSS Grid is a bit better than Flexbox, and I already heard it's a bit
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 7: January 9th, Tuesday
+
+**Today's Progress**: Completed the freeCodeCamp HTML5 and CSS section, and Day 7 for CSS Grid and Javascript30 (another Array Cardio day!). Also made a procedurally generated mobile game, using a Unity tutorial.
+
+**Thoughts** I thought it would take longer (5 hours) to complete the freeCodeCamp section, I guess it helps that I already knew what I was working through. The Array Cardio Day wasn't too crazy this time, learned some helpful methods.
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)

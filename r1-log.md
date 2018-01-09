@@ -21,3 +21,6 @@ Practiced JS changes to CSS Flexbox, and grid template areas in CSS Grid. Seems 
 
 ### R1D6
 Completed the Ajax Type Ahead exersice in #js30. Also Day 6 for CSS Grid, and I started the Front End Developer Certificate on freeCodeCamp because why not?!
+
+### R1D7
+Completed the freeCodeCamp HTML5 and CSS section, and Day 7 for CSS Grid and Javascript30 (another Array Cardio day!). Also made a procedurally generated mobile game, using a Unity tutorial.
