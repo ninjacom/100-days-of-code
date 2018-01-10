@@ -24,3 +24,6 @@ Completed the Ajax Type Ahead exersice in #js30. Also Day 6 for CSS Grid, and I 
 
 ### R1D7
 Completed the freeCodeCamp HTML5 and CSS section, and Day 7 for CSS Grid and Javascript30 (another Array Cardio day!). Also made a procedurally generated mobile game, using a Unity tutorial.
+
+### R1D8
+Completed Day 8 of #javascript30 and the @scrimba_com CSS Grid screencast. Also got started on the #freeCodeCamp Responsive Design with Bootstrap section.

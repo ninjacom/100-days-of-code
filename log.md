@@ -85,3 +85,14 @@ Seems like CSS Grid is a bit better than Flexbox, and I already heard it's a bit
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 8: January 10th, Wednesday
+**Today's Progress**: Completed Day 8 of #javascript30 and the @scrimba_com CSS Grid screencast. Also got started on the #freeCodeCamp Responsive Design with Bootstrap section.
+
+**Thoughts** 
+HTML5 Canvas is pretty cool, could use that to make 2D or 3D games. And CSS Grid's ability to fit all the images no matter their differing sizes is really neat! It feels backwards to be doing Bootstrap now.. eh I'll just power through it quickly, and use it as a case study comparing the past and the future of CSS.
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
