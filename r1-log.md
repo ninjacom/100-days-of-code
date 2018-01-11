@@ -27,3 +27,6 @@ Completed the freeCodeCamp HTML5 and CSS section, and Day 7 for CSS Grid and Jav
 
 ### R1D8
 Completed Day 8 of #javascript30 and the @scrimba_com CSS Grid screencast. Also got started on the #freeCodeCamp Responsive Design with Bootstrap section.
+
+### R1D9
+Day 9 of #javascript30 (browser console goodness) and the @scrima_com CSS Grid screencast (named lines). Also hammering away at #freeCodeCamp Responsive Design with Bootstrap.

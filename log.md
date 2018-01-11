@@ -96,3 +96,14 @@ HTML5 Canvas is pretty cool, could use that to make 2D or 3D games. And CSS Grid
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 9: January 11th, Thursday
+**Today's Progress**: Day 9 of #javascript30 (browser console goodness) and the @scrima_com CSS Grid screencast (named lines). Also hammering away at #freeCodeCamp Responsive Design with Bootstrap.
+
+**Thoughts** 
+I actually learned a lot about how to print stuff with the browser console, and how to do a bit better job of bug tracking. Cool to see that CSS Grid lets you programmatically style the HTML. 
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
