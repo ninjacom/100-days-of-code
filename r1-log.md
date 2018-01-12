@@ -30,3 +30,6 @@ Completed Day 8 of #javascript30 and the @scrimba_com CSS Grid screencast. Also 
 
 ### R1D9
 Day 9 of #javascript30 (browser console goodness) and the @scrima_com CSS Grid screencast (named lines). Also hammering away at #freeCodeCamp Responsive Design with Bootstrap.
+
+### R1D10
+Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrima_com CSS Grid screencast (justify-content and align-content). In #freeCodeCamp I've progressed to jQuery!
