@@ -33,3 +33,6 @@ Day 9 of #javascript30 (browser console goodness) and the @scrima_com CSS Grid s
 
 ### R1D10
 Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrima_com CSS Grid screencast (justify-content and align-content). In #freeCodeCamp I've progressed to jQuery!
+
+### R1D11
+Missed yesterday with traveling, woops! Today I finished the jQuery section of #freeCodeCamp, and now working on the Tribute Page project via #CodePen.

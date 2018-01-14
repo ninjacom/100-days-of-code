@@ -109,11 +109,22 @@ I actually learned a lot about how to print stuff with the browser console, and 
 [Github](https://github.com/ninjacom)
 
 
-### Day 10: January 12th, Thursday
+### Day 10: January 12th, Friday
 Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrima_com CSS Grid screencast (justify-content and align-content). In #freeCodeCamp I've progressed on to jQuery.
 
 **Thoughts** 
 It's funny (and sad) that my once sharp coding brain couldn't really find a good solution by myself for the Hold Shift to Select Many Checkboxes. By myself, I draw a blank. However, I am able to keep up with what is being said and it all makes sense AFTER I hear it. Also, I didn't know that justify-content is for rows, and align-content for columns. 
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
+
+
+### Day 11: January 14th, Sunday
+Finished the jQuery section of #freeCodeCamp, and now working on the Tribute Page via #CodePen.
+
+**Thoughts** 
+I fell behind by missing a day, due to travels and being out of the normal flow of things. Will have to keep this in mind for the future.
 
 **Link(s) to work**
 
