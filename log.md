@@ -121,6 +121,17 @@ It's funny (and sad) that my once sharp coding brain couldn't really find a good
 
 
 ### Day 11: January 14th, Sunday
+Working on the first #freeCodeCamp project, the Tribute Page, via #CodePen.
+
+**Thoughts** 
+I fell behind quite a bit, lost some momuentum. Hard to keep habits of mind when traveling / adapting to changing current circumstances.
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)
+
+
+### Day 12: January 17th, Wednesday
 Finished the jQuery section of #freeCodeCamp, and now working on the Tribute Page via #CodePen.
 
 **Thoughts** 
