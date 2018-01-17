@@ -38,3 +38,4 @@ Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrima_com C
 Missed yesterday with traveling, woops! Today I finished the jQuery section of #freeCodeCamp, and now working on the Tribute Page project via #CodePen.
 
 ### R1D12
+Working on the first #freeCodeCamp project, the Tribute Page, via #CodePen.
