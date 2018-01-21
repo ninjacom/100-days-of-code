@@ -39,3 +39,6 @@ Missed yesterday with traveling, woops! Today I finished the jQuery section of #
 
 ### R1D12
 Working on the first #freeCodeCamp project, the Tribute Page, via #CodePen.
+
+### R1D13
+Day 11 of #javascript30 (custom HTML5 video player). Finished the Tribute page in #freeCodeCamp, and now working on the Personal Portfolio page via #CodePen. 

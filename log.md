@@ -140,3 +140,15 @@ I fell behind by missing a day, due to travels and being out of the normal flow 
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 13: January 20th, Sunday
+Day 11 of #javascript30 (custom HTML5 video player). Finished the Tribute page in #freeCodeCamp, and now working on the Personal Portfolio page via #CodePen.
+
+**Thoughts** 
+It's really hard to pick up again after losing momentum. Hoping that the next 3 weeks here in London will help with my coding consistency. Brainfog is difficult to combat with these lost days adding to the inertia.
+
+**Link(s) to work**
+
+[Codepen] (https://codepen.io/hendrixsan/pen/RxeQqp)
+[Github](https://github.com/ninjacom)
