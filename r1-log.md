@@ -42,3 +42,6 @@ Working on the first #freeCodeCamp project, the Tribute Page, via #CodePen.
 
 ### R1D13
 Day 11 of #javascript30 (custom HTML5 video player). Finished the Tribute page in #freeCodeCamp, and now working on the Personal Portfolio page via #CodePen. 
+
+### R1D14
+Day 12 of #javascript30 (key sequence detection), played with more of the bonus content of the @scrima_com CSS Grid screencast, and started the #freeCodeCamp Personal Portfolio page via #CodePen.

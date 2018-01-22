@@ -152,3 +152,14 @@ It's really hard to pick up again after losing momentum. Hoping that the next 3 
 
 [Codepen] (https://codepen.io/hendrixsan/pen/RxeQqp)
 [Github](https://github.com/ninjacom)
+
+### Day 14: January 21th, Monday
+Day 12 of #javascript30 (key sequence detection), played with more of the bonus content of the @scrima_com CSS Grid screencast, and started the #freeCodeCamp Personal Portfolio page via #CodePen.
+
+**Thoughts** 
+I feel back in the flow of coding, though I feel the need to augment my studies with some higher level, interview-style questions and studies. More algorithms, design patterns, and whiteboard coding tests.
+
+**Link(s) to work**
+
+[Codepen] (https://codepen.io/hendrixsan/pen/mpoXEQ)
+[Github](https://github.com/ninjacom)
