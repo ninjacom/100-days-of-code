@@ -45,3 +45,6 @@ Day 11 of #javascript30 (custom HTML5 video player). Finished the Tribute page i
 
 ### R1D14
 Day 12 of #javascript30 (key sequence detection), played with more of the bonus content of the @scrima_com CSS Grid screencast, and started the #freeCodeCamp Personal Portfolio page via #CodePen.
+
+### R1D15
+Day 13 of #javascript30 (slide in on scroll), and watched the LAST of the bonus content of the @scrimba_com CSS Grid screencast. Also learning animations and tweens in Unity3D.

@@ -99,7 +99,7 @@ HTML5 Canvas is pretty cool, could use that to make 2D or 3D games. And CSS Grid
 
 
 ### Day 9: January 11th, Thursday
-**Today's Progress**: Day 9 of #javascript30 (browser console goodness) and the @scrima_com CSS Grid screencast (named lines). Also hammering away at #freeCodeCamp Responsive Design with Bootstrap.
+**Today's Progress**: Day 9 of #javascript30 (browser console goodness) and the @scrimba_com CSS Grid screencast (named lines). Also hammering away at #freeCodeCamp Responsive Design with Bootstrap.
 
 **Thoughts** 
 I actually learned a lot about how to print stuff with the browser console, and how to do a bit better job of bug tracking. Cool to see that CSS Grid lets you programmatically style the HTML. 
@@ -110,7 +110,7 @@ I actually learned a lot about how to print stuff with the browser console, and 
 
 
 ### Day 10: January 12th, Friday
-Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrima_com CSS Grid screencast (justify-content and align-content). In #freeCodeCamp I've progressed on to jQuery.
+Day 10 of #javascript30 (hold shift to select many checkboxes) and @scrimba_com CSS Grid screencast (justify-content and align-content). In #freeCodeCamp I've progressed on to jQuery.
 
 **Thoughts** 
 It's funny (and sad) that my once sharp coding brain couldn't really find a good solution by myself for the Hold Shift to Select Many Checkboxes. By myself, I draw a blank. However, I am able to keep up with what is being said and it all makes sense AFTER I hear it. Also, I didn't know that justify-content is for rows, and align-content for columns. 
@@ -142,7 +142,7 @@ I fell behind by missing a day, due to travels and being out of the normal flow 
 [Github](https://github.com/ninjacom)
 
 
-### Day 13: January 20th, Sunday
+### Day 13: January 21th, Sunday
 Day 11 of #javascript30 (custom HTML5 video player). Finished the Tribute page in #freeCodeCamp, and now working on the Personal Portfolio page via #CodePen.
 
 **Thoughts** 
@@ -153,8 +153,8 @@ It's really hard to pick up again after losing momentum. Hoping that the next 3 
 [Codepen] (https://codepen.io/hendrixsan/pen/RxeQqp)
 [Github](https://github.com/ninjacom)
 
-### Day 14: January 21th, Monday
-Day 12 of #javascript30 (key sequence detection), played with more of the bonus content of the @scrima_com CSS Grid screencast, and started the #freeCodeCamp Personal Portfolio page via #CodePen.
+### Day 14: January 22th, Monday
+Day 12 of #javascript30 (key sequence detection), played with more of the bonus content of the @scrimba_com CSS Grid screencast, and started the #freeCodeCamp Personal Portfolio page via #CodePen.
 
 **Thoughts** 
 I feel back in the flow of coding, though I feel the need to augment my studies with some higher level, interview-style questions and studies. More algorithms, design patterns, and whiteboard coding tests.
@@ -162,4 +162,15 @@ I feel back in the flow of coding, though I feel the need to augment my studies 
 **Link(s) to work**
 
 [Codepen] (https://codepen.io/hendrixsan/pen/mpoXEQ)
+[Github](https://github.com/ninjacom)
+
+
+### Day 15: January 23th, Tuesday
+Day 13 of #javascript30 (slide in on scroll), and watched the LAST of the bonus content of the @scrimba_com CSS Grid screencast. Also learning animations and tweens in Unity3D.
+
+**Thoughts** 
+I think I'm going to challenge myself to do the freeCodeCamp Personal Portfolio page using CSS Grid and Flexbox - they are the future, not Bootstrap.
+
+**Link(s) to work**
+
 [Github](https://github.com/ninjacom)
