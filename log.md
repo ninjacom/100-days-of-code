@@ -174,3 +174,15 @@ I think I'm going to challenge myself to do the freeCodeCamp Personal Portfolio 
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 16: January 24th, Wednesday
+Day 14 of #javascript30 (JS References vs. Copying), and worked on my #freeCodeCamp Portfolio page on my local machine.
+
+**Thoughts** 
+Despite having completed the CSS grid screencast, I don't feel like I've remembered enough to 'speak' it when needed. I guess it may be worth taking Wes Bos's CSS Grid course too!
+
+**Link(s) to work**
+
+[Codepen] (https://codepen.io/hendrixsan/pen/mpoXEQ)
+[Github](https://github.com/ninjacom)

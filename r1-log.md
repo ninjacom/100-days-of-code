@@ -48,3 +48,6 @@ Day 12 of #javascript30 (key sequence detection), played with more of the bonus 
 
 ### R1D15
 Day 13 of #javascript30 (slide in on scroll), and watched the LAST of the bonus content of the @scrimba_com CSS Grid screencast. Also learning animations and tweens in Unity3D.
+
+### R1D16
+Day 14 of #javascript30 (JS References vs. Copying), and worked on my #freeCodeCamp Portfolio page on my local machine.
