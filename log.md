@@ -186,3 +186,14 @@ Despite having completed the CSS grid screencast, I don't feel like I've remembe
 
 [Codepen] (https://codepen.io/hendrixsan/pen/mpoXEQ)
 [Github](https://github.com/ninjacom)
+
+
+### Day 17: January 25th, Thursday
+Day 15 of #javascript30 (LocalStorage and Event Delegation), and I did the "extra credit" of adding 3 more buttons check all/ uncheck all/ remove all items. Worked on my #freeCodeCamp Portfolio page on my local machine.
+
+**Thoughts** 
+It felt good to trial-and-error my way to a solution in Javascript. I don't feel confident enough today to return to my Personal portfolio project, in part because the Global Game Jam is tomorrow and I want to hone my Unity skills a little bit before then.
+
+**Link(s) to work**
+
+[Github](https://github.com/ninjacom)

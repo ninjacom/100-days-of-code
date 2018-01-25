@@ -51,3 +51,6 @@ Day 13 of #javascript30 (slide in on scroll), and watched the LAST of the bonus 
 
 ### R1D16
 Day 14 of #javascript30 (JS References vs. Copying), and worked on my #freeCodeCamp Portfolio page on my local machine.
+
+### R1D17
+Day 15 of #javascript30 (LocalStorage and Event Delegation), and I did the "extra credit" of adding 3 more buttons check all/ uncheck all/ remove all items.
