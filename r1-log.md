@@ -54,3 +54,15 @@ Day 14 of #javascript30 (JS References vs. Copying), and worked on my #freeCodeC
 
 ### R1D17
 Day 15 of #javascript30 (LocalStorage and Event Delegation), and I did the "extra credit" of adding 3 more buttons check all/ uncheck all/ remove all items.
+
+### R1D18
+Global Game Jam Day 1
+
+### R1D19
+Global Game Jam Day 2
+
+### R1D20
+Global Game Jam Day 3
+
+### R1D21
+Made a VR Domino prototype at Global Game Jam 2018, and then fell off the wagon for a week. Today I did Day 16 of #javascript30 (CSS Text Shadow Mouse Movement) and started the Javascript segment of #freeCodeCamp.

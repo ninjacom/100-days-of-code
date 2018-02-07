@@ -197,3 +197,15 @@ It felt good to trial-and-error my way to a solution in Javascript. I don't feel
 **Link(s) to work**
 
 [Github](https://github.com/ninjacom)
+
+
+### Day 21: February 7th, Wednesday
+Made a VR Domino prototype at Global Game Jam 2018, and then fell off the wagon for a week. Today I did Day 16 of #javascript30 (CSS Text Shadow Mouse Movement) and started the Javascript segment of #freeCodeCamp.
+
+**Thoughts** 
+I'm glad I've gotten back on the wagon today! GGJ 2018 was a lot of fun, and I want to find local game jams in Washington to participate in at least quarterly. 
+
+**Link(s) to work**
+[Dominoes: Global Game Jam](https://globalgamejam.org/2018/games/dominoes)
+[Dominoes: Playable Web Version](rosanna20736.github.io/DominoesGame/)
+[Github](https://github.com/ninjacom)
