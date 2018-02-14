@@ -66,3 +66,9 @@ Global Game Jam Day 3
 
 ### R1D21
 Made a VR Domino prototype at Global Game Jam 2018, and then fell off the wagon for a week. Today I did Day 16 of #javascript30 (CSS Text Shadow Mouse Movement) and started the Javascript segment of #freeCodeCamp.
+
+### R1D22
+Continued through the Javascript segment of #freeCodeCamp.
+
+### R1D23
+Day 17 of #javascript30 (Sorting Brand Names without articles) and continued through the Javascript segment of #freeCodeCamp.

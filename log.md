@@ -209,3 +209,26 @@ I'm glad I've gotten back on the wagon today! GGJ 2018 was a lot of fun, and I w
 [Dominoes: Global Game Jam](https://globalgamejam.org/2018/games/dominoes)
 [Dominoes: Playable Web Version](rosanna20736.github.io/DominoesGame/)
 [Github](https://github.com/ninjacom)
+
+
+
+### Day 22: February 10th, Saturday
+Continued through the Javascript segment of #freeCodeCamp.
+
+**Thoughts** 
+ 
+
+**Link(s) to work**
+[Github](https://github.com/ninjacom)
+
+
+### Day 23: February 14th, Wednesday
+Day 17 of #javascript30 (Sorting Brand Names without articles) and continued through the Javascript segment of #freeCodeCamp.
+
+**Thoughts** 
+It was uncomfortable to face my insecurity about not coding after a few days, I can already feel the fog creeping back in! Glad I forced myself through the discomfort to get my mind fit again!
+
+**Link(s) to work**
+[Github](https://github.com/ninjacom)
+
+
