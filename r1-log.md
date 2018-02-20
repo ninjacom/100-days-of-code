@@ -72,3 +72,15 @@ Continued through the Javascript segment of #freeCodeCamp.
 
 ### R1D23
 Day 17 of #javascript30 (Sorting Brand Names without articles) and continued through the Javascript segment of #freeCodeCamp.
+
+### R1D24
+Went to the #freeCodeCamp meetup in Bellevue, met some fellow campers, and continued through the JS segment.
+
+### R1D25
+Continued through the JS segment of #freeCodeCamp.
+
+### R1D26
+Finished the JS segment of #freeCodeCamp.
+
+### R1D27
+Day 18 of #javascript30 (Tally String Times with Reduce) and started the Object Oriented Programming segment of #freeCodeCamp. 
