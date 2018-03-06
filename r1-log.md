@@ -84,3 +84,21 @@ Finished the JS segment of #freeCodeCamp.
 
 ### R1D27
 Day 18 of #javascript30 (Tally String Times with Reduce) and started the Object Oriented Programming segment of #freeCodeCamp. 
+
+### R1D28
+Day 19 of #javascript30 (Tally String Times with Reduce).
+
+### R1D29
+Started the Algorithms segment of #freeCodeCamp, and feeling like a newbie again!
+
+### R1D30
+Working through Algorithms segment of #freeCodeCamp. It's a fun feeling, scanning ALL of the functions an object has and determining which is the best weapon for deconstructing / reconstructing arrays and strings..
+
+### R1D31
+Still going through the Algorithms segment of #freeCodeCamp, and getting back into the swing of deconstructing / reconstructing in terms of arrays and functions.
+
+### R1D32
+Still going through the Algorithms segment, while at the #freeCodeCamp Meetup in Bellevue.
+
+### R1D33
+Finally finished the Basic Algorithm Scripting segment of #freeCodeCamp! Also started and finished the JSON APIs and Ajax section.
